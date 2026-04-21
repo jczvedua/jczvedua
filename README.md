@@ -54,6 +54,8 @@ A classic Snake game built using JavaScript and HTML Canvas.
 * Game over screen with restart functionality
 * Persistent high score tracking using local storage
 
+![Snake game preview](images/snake-game.png)
+
 🔗 [GitHub Repository](https://github.com/jczvedua/snake-game)
 
 ## 📫 Contact
