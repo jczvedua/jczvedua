@@ -42,6 +42,10 @@ A full-stack web app that allows users to search and track anime using real-time
 * Track watch progress and manage viewing history
 * Responsive UI for better user experience
 
+![Jikan search](images/jikan-search.png)
+
+![Jikan list](images/jikan-list.png)
+
 🔗 [GitHub Repository](https://github.com/jczvedua/jikan-anime-tracker)
 
 ---
